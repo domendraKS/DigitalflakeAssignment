@@ -1,0 +1,14 @@
+form input[type="text"],
+input[type="email"],
+input[type="password"] {
+  border-radius: 8px;
+  border: 1px solid #9f9f9f;
+}
+
+form label {
+  color: #9f9f9f;
+}
+
+.loginForm {
+  box-shadow: 0px 7px 4px 0px #0000004f;
+}
